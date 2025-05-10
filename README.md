@@ -6,4 +6,4 @@ This is a simple HTML previewer app built with Flutter. It allows users to input
 
 ## Environment
 
-Project developed and run on ver Flutter 3.29.3 Dart 3.7.2
+Project developed and run on ver Flutter 3.29.3, Dart 3.7.2.

@@ -1,11 +1,11 @@
 {
-    "name": "html_previewer_app",
-    "short_name": "html_previewer_app",
+    "name": "HTML Previewer app",
+    "short_name": "HTML Previewer app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Flutter application designed for previewing HTML content.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

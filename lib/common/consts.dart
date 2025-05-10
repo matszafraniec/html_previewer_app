@@ -1,7 +1,7 @@
 class Consts {
   static const double maxRegularHeight = 500;
   static const double htmlMinLength = 5;
-  static String preloadedHtmlSample = """
+  static const String preloadedHtmlSample = """
         <h1>ARS OLD CAR</h1>
         <p><b>ARS OLD CAR</b> – Muzeum Motoryzacji to przedsięwzięcie rodzinne, które zrodziło się pod wpływem naszego zainteresowania turystyką, podróżami zarówno zagranicznymi 🚤 🛩️jak i po Polsce 🚔🚖, ostatnio w szczególności w Świętokrzyskie 🚲🛴oraz oczywiście niezwykłej i wyjątkowej słabości do Citroena 2CV 🚕🚓.</p> 
         <p>Pragniemy, aby nasze muzeum było miejscem zaskakującej rozrywki dla odwiedzających w każdym wieku i niezależnie od płci.</p>
